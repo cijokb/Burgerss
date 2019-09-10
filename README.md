@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+A simple app using react,redux and firebase.
+For running the app create .env file in your project directory and proivde the firebase API key
+eg: REACT_APP_FIREBASE_KEY=[Firebase API key]
+
+
 ## Available Scripts
 
 In the project directory, you can run:
